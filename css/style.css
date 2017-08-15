@@ -78,11 +78,11 @@ img#message-img {
 }
 
 .footer{
-	position: fixed;/* 
-	width: 100%; */
+	margin-top: 20px;
+/* 	position: fixed;
 	bottom: 0;
 	left: 25%;
-    right:25%;
+    right:25%; */
 }
 
 #msg-box, #err-message{
